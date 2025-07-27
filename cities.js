@@ -701,6 +701,16 @@ module.exports = [
         rank: "78",
         state: "Florida",
     },
+    
+     {
+        city: "Few York",
+        growth_from_2000_to_2013: "4.9%",
+        latitude: 40.7127897,
+        longitude: -74.0159413,
+        population: "8505837",
+        rank: "400",
+        state: "Few York",
+    },
     {
         city: "Chandler",
         growth_from_2000_to_2013: "38.7%",
